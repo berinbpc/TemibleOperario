@@ -33,10 +33,7 @@ El proyecto está estructurado bajo el patrón **MVC**:
 
 ## Cómo correrlo
 
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   ```
+1. Clonar el repositorio.
 2. Abrir el proyecto en un IDE (recomendado: **Eclipse**)
 3. Ejecutar la clase `InterfazMenu` (paquete `view`).
 
